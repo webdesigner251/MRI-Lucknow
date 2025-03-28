@@ -20238,6 +20238,14 @@ only screen and (min-width: 992px) and (max-width: 1199px) {
   .header__logo img {
     height: 80px;
   }
+
+  .experience-2__bottom-up {
+    margin-bottom: 0;
+  }
+
+  .experience-2__box {
+    gap: 40px;
+  }
 }
 
 @media (max-width: 576px) {
